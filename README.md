@@ -17,7 +17,9 @@ El flujo de cálculo es exactamente el que manda la ley:
 Pruebas del Programa (Escenarios en Ejecución)
 
 Aquí están las capturas de pantalla de la consola corriendo en los 4 tramos de la DGII:
-<img width="1097" height="545" alt="Screenshot 2026-07-19 020759" src="https://github.com/user-attachments/assets/56ab960c-6beb-46b2-8fde-5d0e99705a35" />
+<img width="1109" height="614" alt="Screenshot 2026-07-19 025905" src="https://github.com/user-attachments/assets/b01c6320-937f-498c-99ba-5d9bead26343" />
+
+
 
 
  1. Caso Exento (Sueldo bajo el límite)
