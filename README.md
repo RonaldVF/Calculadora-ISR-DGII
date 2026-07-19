@@ -9,10 +9,10 @@ El flujo de cálculo es exactamente el que manda la ley:
 1. **Quita la TSS primero:** Al sueldo bruto que pones, le descuenta el **5.91%** de la Seguridad Social: SFS + AFP.
 2. **Saca el sueldo gravable:** Lo que queda es lo que la DGII realmente revisa para cobrar impuestos.
 3. **Aplica la escala mensual de 2026:**
-   * **Hasta RD$ 34,685.00** - Exento (Da `0` o `N/A`).
-   * **De RD$ 34,685.01 a RD$ 52,027.42** - 15% del excedente.
-   * **De RD$ 52,027.43 a RD$ 72,260.25** -  Cuota fija de RD$ 2,601.33 + 20% del excedente.
-   * **Más de RD$ 72,260.25** - Cuota fija de RD$ 6,648.00 + 25% del excedente.
+* **Hasta RD$ 34,685.00** - Exento (Da `0` o `N/A`).
+* **De RD$ 34,685.01 a RD$ 52,027.42** - 15% del excedente.
+* **De RD$ 52,027.43 a RD$ 72,260.25** -  Cuota fija de RD$ 2,601.33 + 20% del excedente.
+* **Más de RD$ 72,260.25** - Cuota fija de RD$ 6,648.00 + 25% del excedente.
 
 Pruebas del Programa (Escenarios en Ejecución)
 
